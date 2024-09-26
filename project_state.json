@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "type": "backend",
+      "task": "Set up game logic, control steps and victory conditions"
+    },
+    {
+      "type": "frontend",
+      "task": "Design and implement the interface of the game, including the graphical presentation of the snake, static and dynamic obstacles"
+    },
+    {
+      "type": "backend",
+      "task": "Implement how the game reacts to user's keyboard inputs"
+    },
+    {
+      "type": "backend",
+      "task": "Implement the functionality that makes the game increasingly difficult as the player progresses"
+    },
+    {
+      "type": "backend",
+      "task": "Implement game sounds, including background music and sound effects that play when the snake eats an apple, collides with an obstacle, or the game ends"
+    },
+    {
+      "type": "backend",
+      "task": "Integrate game with macosx terminal environment - ensure it functions correctly with specific terminal settings"
+    },
+    {
+      "type": "database",
+      "task": "Create a local database to store game high scores"
+    },
+    {
+      "type": "backend",
+      "task": "Implement functions to interact with local database to retrieve and update high scores"
+    },
+    {
+      "type": "frontend",
+      "task": "Display high scores on the game end page"
+    }
+  ],
+  "files": [
+    "project_state.json"
+  ]
+}

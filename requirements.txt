@@ -1,0 +1,12 @@
+# requirements.txt
+
+openai==1.32.0
+python-dotenv==1.0.0
+gitpython==3.1.30
+flask==2.2.5
+flask-socketio==5.3.3
+eventlet==0.33.3
+redis==5.0.0
+celery==5.3.4
+instructor==0.6.2
+langchain-openai==0.1.15

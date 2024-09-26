@@ -1,0 +1,17 @@
+# .gitignore
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Logs
+logs/
+
+# Redis dump
+dump.rdb
