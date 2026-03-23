@@ -17,3 +17,7 @@ This project is an agentic AI framework designed to autonomously generate code f
 ## Project Structure
 
 # agentix
+
+## Contact
+
+Built by **Youssef Hajar** — [yhajar@biedkracht.nl](mailto:yhajar@biedkracht.nl)
