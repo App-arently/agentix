@@ -20,4 +20,4 @@ This project is an agentic AI framework designed to autonomously generate code f
 
 ## Contact
 
-Built by **Youssef Hajar** — [yhajar@biedkracht.nl](mailto:yhajar@biedkracht.nl)
+Built by **Y. Hajar** — [yhajar@biedkracht.nl](mailto:yhajar@biedkracht.nl)
